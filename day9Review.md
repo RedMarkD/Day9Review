@@ -44,6 +44,7 @@ start reading more in terms of the third element that was not necesarily include
 
 found the local history feature in PhpStorm, pretty nifty.
 
+continuing on reviewing past weeks. 
 
 
 
